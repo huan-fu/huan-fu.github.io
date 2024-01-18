@@ -49,8 +49,9 @@ nav_order: 5
 <body>
 
   <section>
-    <h3>Senior Program Committee</h3>
-    <ul>
+    <h3>Area Chair &amp; Senior Program Committee</h3>
+    <ul> 
+      <li>ECCV: 2024</li>
       <li>IJCAI: 2021, 2023, 2024</li>
     </ul>
   </section>
