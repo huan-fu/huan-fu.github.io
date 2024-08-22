@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I currently serve as the AIGC leader at Youku, Alibaba. We are dedicated to leveraging 3D and 2D generative techniques to overcome challenges in the animation, film, and television industry. 
+I currently serve as the AIGC Lead at Youku, Alibaba. We are dedicated to leveraging 3D and 2D generative techniques to overcome challenges in the animation, film, and television industry. 
 
 I got my Ph.D. from The University of Sydney (USYD) in 2019 under the guidance of [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), with co-supervision from [Prof. Chaohui Wang](https://igm.univ-mlv.fr/~cwang/index.php) and [Prof. Mingming Gong](https://mingming-gong.github.io/). Prior to that, I completed my bachelor's degree at the University of Science and Technology of China (USTC) in 2014. 
 
