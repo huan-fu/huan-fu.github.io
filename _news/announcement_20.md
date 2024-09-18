@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as an Area Chair for WACV 2024.
+I will serve as an Area Chair for WACV 2025.
