@@ -61,11 +61,15 @@ nav_order: 5
   <section>
     <h3>Program Committee</h3>
     <ul>
-      <li>CVPR24, ICML24</li>
-      <li>CVPR23, ICCV23, ICML23, NeurIPS23, ICLR23, SIGGRAPH Asia23</li>
-      <li>CVPR22, ECCV22, NeurIPS22, 3DV22, ICML22, AAAI22, IJCAI22</li>
-      <li>CVPR21, ICCV21, NeurIPS21, ICML21, AAAI21</li>
-      <li>CVPR20, NeurIPS20, AAAI20, IJCAI20</li>
+      <li>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</li>
+      <li>International Conference on Computer Vision (ICCV)</li>
+      <li>European Conference on Computer Vision (ECCV)</li>
+      <li>International Conference on Machine Learning (ICML)</li>
+      <li>Neural Information Processing Systems (NeurIPS)</li>
+      <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
+      <li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
+      <li>International Conference on 3D Vision (3DV)</li>
+      <li>ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia)</li>
     </ul>
   </section>
   
