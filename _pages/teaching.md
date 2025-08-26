@@ -50,8 +50,10 @@ nav_order: 5
 
   <section>
     <h3>Area Chair &amp; Senior Program Committee</h3>
-    <ul> 
+    <ul>
+      <li>CVPR: 2025, 2026</li>
       <li>ECCV: 2024</li>
+      <li>WACV: 2025, 2026</li>
       <li>IJCAI: 2021, 2023, 2024</li>
     </ul>
   </section>
