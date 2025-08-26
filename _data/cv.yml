@@ -29,9 +29,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Staff Algorithm Reasercher (P9)
+      institution: Youku, Alibaba
+      year: 2024 - present
     - title: Principle Researcher
       institution: Futurise
-      year: 2023 - Now
+      year: 2023 - 2024
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -39,12 +42,12 @@
       #    contents:
       #      - Sub-description 1.
       #      - Sub-description 2.
-    - title: Staff Algorithm Expert
+    - title: Staff Algorithm Reasercher
       institution: Taobao Techology Department, Alibaba
       year: 2019 - 2023
       description:
-        - Staff Algorithm Expert (P8) &nbsp; &nbsp; &nbsp; April, 2022
-        - Senior Algorithm Expert (P7) &nbsp; &nbsp; May, 2019
+        - Staff Algorithm Reasercher &nbsp; &nbsp; &nbsp; April, 2022
+        - Senior Algorithm Reasercher &nbsp; &nbsp; May, 2019
     
     - title: Software Development Intern
       institution: Microsoft China
