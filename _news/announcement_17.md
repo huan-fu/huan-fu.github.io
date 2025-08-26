@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as a Area Chair for CVPR 2025.
+I will serve as an Area Chair for CVPR 2025.
